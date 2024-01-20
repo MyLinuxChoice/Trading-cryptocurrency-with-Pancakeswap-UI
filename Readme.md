@@ -14,7 +14,7 @@
     A BOT that will make easy your life in Trading.
     <br />
   
-
+ 
     <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors

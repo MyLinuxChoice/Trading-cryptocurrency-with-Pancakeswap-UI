@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/ZainAchak/DeFi_PanCakeSwapBot">
     <img src="images/Defi_PancakeBot.png" alt="Logo" width="230" height="160">
-  </a>
+  </a> 
 
   <h3 align="center">Trading cryptocurrency with Pancakeswap UI</h3>
   <h5 align="center"> If you enjoyed the bot don't forget to give a STAR</h5> <h1 align="center">⭐️⭐️⭐️</h1> 
